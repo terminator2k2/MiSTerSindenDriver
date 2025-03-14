@@ -9,7 +9,7 @@ MISTER_CONFIG_PATH="/media/fat/config"
 # Remove custom cores with "Sinden" in their name
 rm -rf /media/fat/Light\ Gun
 rm -f /media/fat/_Console/Atari\ 7800\ Light\ Gun.mgl
-rm -f /media/fat/_Console/InputTest\ Light\ Gun.mgl
+rm -f /media/fat/_Utility/InputTest\ Light\ Gun.mgl
 rm -f /media/fat/_Console/NES\ Light\ Gun.mgl
 rm -f /media/fat/_Console/Playstation\ Light\ Gun\ \(Dual\ Ram\).mgl
 rm -f /media/fat/_Console/Playstation\ Light\ Gun.mgl
