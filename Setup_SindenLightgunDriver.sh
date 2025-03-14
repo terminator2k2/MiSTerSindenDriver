@@ -17,6 +17,7 @@ cd $SINDEN_SCRIPTS_PATH/MiSTerSindenDriver-main/mgl
 mkdir -p /media/fat/_Console/
 cp -f *.mgl /media/fat/_Console/
 chmod 755 /media/fat/_Console/*.mgl
+mv /media/fat/_Console/InputTest\ Light\ Gun.mgl  /media/fat/_Utility
 echo "Moved Sinden mgl Files."
 
 # Copy startup scripts to easily start and stop the lightgun
